@@ -21,4 +21,4 @@ The website can be run locally or deployed using GitHub Pages.
 - Add backend functionality
 - Improve accessibility
 - Add more dynamic project content
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a8c3766-4034-46e7-bd42-deaa9f19499c" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/18596298-3be5-4d3b-a763-cae6ca234cd5" />
