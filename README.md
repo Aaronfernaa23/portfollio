@@ -23,8 +23,8 @@ The website can be run locally or deployed using GitHub Pages.
 - Add more dynamic project content
 <img width="1250" height="620" alt="image" src="https://github.com/user-attachments/assets/18596298-3be5-4d3b-a763-cae6ca234cd5" />
 
-Project card layout
 
+Project card layout
 --------------------------------------------------------
 |                        PROJECTS                         |
  ---------------------------------------------------------
@@ -44,7 +44,7 @@ Project card layout
 |   ---------------------------------------------------   |
 |   ... more cards ...                                   |
  --------------------------------------------------------
-Fast loading time
-Accessibility compliance
-Clean, modern design
+Fast loading time,
+Accessibility compliance,
+Clean, modern design,
 Maintainable code
