@@ -43,11 +43,17 @@ Project card layout
 |   |  - [View Project]                                |  |
 |   ---------------------------------------------------   |
 
-Aaron Fernandes 
-BSC Information Technology
+
 |   ... more cards ...                                   |
  --------------------------------------------------------
-Fast loading time,
-Accessibility compliance,
-Clean, modern design,
+Fast loading time, Accessibility compliance, Clean modern design
+
+Aaron Fernandes
+BSC Information Technology
+
+
+
+
+
 Maintainable code
+
