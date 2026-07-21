@@ -21,7 +21,7 @@ The website can be run locally or deployed using GitHub Pages.
 - Add backend functionality
 - Improve accessibility
 - Add more dynamic project content
-<img width="300" height="520" alt="image" src="https://github.com/user-attachments/assets/18596298-3be5-4d3b-a763-cae6ca234cd5" />
+<img width="600" height="420" alt="image" src="https://github.com/user-attachments/assets/18596298-3be5-4d3b-a763-cae6ca234cd5" />
 
 
 Project card layout
