@@ -46,7 +46,7 @@ Project card layout
 
 |   ... more cards ...                                   |
  --------------------------------------------------------
-Fast loading time, Accessibility compliance, Clean modern design
+Fast loading time, Accessibility compliance, Clean modern design, Maintainable code
 
 Aaron Fernandes
 BSC Information Technology
@@ -55,5 +55,6 @@ BSC Information Technology
 
 
 
-Maintainable code
+
+
 
