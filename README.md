@@ -42,6 +42,9 @@ Project card layout
 |   |  - Description                                   |  |
 |   |  - [View Project]                                |  |
 |   ---------------------------------------------------   |
+
+Aaron Fernandes 
+BSC Information Technology
 |   ... more cards ...                                   |
  --------------------------------------------------------
 Fast loading time,
