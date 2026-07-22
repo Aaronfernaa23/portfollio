@@ -48,10 +48,17 @@ Project card layout
  --------------------------------------------------------
 Fast loading time, Accessibility compliance, Clean modern design, Maintainable code
 
+About section 
+
 Aaron Fernandes
+Skilled in HTML,CSS and Javascript 
+Skills include collaboration and leadership
 BSC Information Technology
 
+Contact section
 
+07824458677
+Aaronferns15@btinternet.com
 
 
 
