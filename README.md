@@ -55,9 +55,11 @@ Hello, I'm Aaron Fernandes, a BSc Information Technology graduate with an intere
 I have practical experience developing websites using HTML, CSS and JavaScript, with a focus on responsive design, accessibility and clean, maintainable code. My strengths include collaboration, leadership and problem-solving, which I have developed through academic projects and team activities.
 
 Contact section
+
 If you would like to discuss my work or employment opportunities, please feel free to get in touch.
 
 Email (Personal): aaronferns15@btinternet.com
+
 Email (LSBU): fernaa30@lsbu.ac.uk
 
 
